@@ -4,22 +4,21 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/AndyIsFine160/CI4-Modding_Bonanza.git">
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- * Title Section -->
-  <h3 align="center">AD - CI4 Template</h3>
+  <h3 align="center">CI4 - Modding Bonanza</h3>
 </div>
 
 <!-- * Description Section -->
 <div align="center">
-This repository is a beginner-friendly CodeIgniter 4 template.  
-It helps teams quickly bootstrap backend + frontend projects, with simple sample modules that show how to extend the system.
+Placeholder TextPlaceholder TextPlaceholder TextPlaceholder TextPlaceholder TextPlaceholder TextPlaceholder Text
 </div>
 
 <br/>
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/ci4-template)
+![](https://visit-counter.vercel.app/counter.png?page=https://github.com/AndyIsFine160/CI4-Modding_Bonanza.git)
 
 <!-- ! Make sure it was similar to your github -->
 
@@ -155,7 +154,7 @@ If you prefer, you can include `-f "compose.yaml"` explicitly; the shorter comma
 Defaults used in this project (host mapping):
 
 | Service     | Host port |
-|-------------|-----------:|
+|-------------|-----------|
 | nginx (app) | 8090      |
 | phpMyAdmin  | 8091      |
 | MySQL       | 3390      |
